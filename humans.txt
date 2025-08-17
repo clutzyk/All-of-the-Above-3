@@ -1,0 +1,9 @@
+/* TEAM */
+Owner: Christopher Lutzyk
+Business: All of the Above Inspections
+
+/* THANKS */
+Built to be fast, clear, and helpful.
+
+/* SITE */
+Standards: HTML5, CSS
